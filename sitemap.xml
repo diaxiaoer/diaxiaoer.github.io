@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://diaxiaoer.github.io/about/index.html</loc>
+    
+    <lastmod>2020-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://diaxiaoer.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://diaxiaoer.github.io/archives/index.html</loc>
+    
+    <lastmod>2020-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://diaxiaoer.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-09-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://diaxiaoer.github.io/2020/09/25/hello-world/</loc>
+    
+    <lastmod>2020-09-25</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>http://diaxiaoer.github.io/</loc>
+    <lastmod>2020-09-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
